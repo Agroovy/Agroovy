@@ -7,3 +7,9 @@ I had the Morshu meme in my head and ran away with it.
 The idea is that Morshu is immortal and runs a very powerful corporation.
 I really just used his face and didn't think and Zelda lore at all.
 Looking at the final webpage, I gotta say I love how I got the navbar to slide in and out.
+
+The project I'm second most proud of is the small game I made: [Add or Explode](https://github.com/Agroovy/add-or-explode).
+I made it with Unity in about a month.
+It was a headache at times because Unity kept giving me errors.
+I still enjoyed the journey of making a game and actually playing it.
+[Give it a try!](https://github.com/Agroovy/add-or-explode)
