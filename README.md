@@ -1,4 +1,4 @@
-I'm Agroovy, a teenage programmer.
+My name is Alexander Marty. I'm a teenage programmer.
 
 The project I'm most proud of is [Morshian](https://morshian.github.io). 
 It's inspired from [this](https://www.youtube.com/watch?v=Z7Rj9mHj79E) video of an RTX Morshu.
